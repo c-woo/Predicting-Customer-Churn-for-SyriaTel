@@ -8,19 +8,21 @@ We’ll be looking at data from SyriaTel, a telecommunications company, to try a
 
 ## Models used for predictions
 
-I'll be running the data through a couple different models to see which one yields the best results. The models I'll be using are:
-*Logistic Regression
-*Random Forest
-*XGBoost
+I'll be running the data through a couple different models to see which one yields the best results. 
+
+The models I'll be using are:<br>
+* Logistic Regression
+* Random Forest
+* XGBoost
 
 ## Logistic Regression
 
 ### Evaluation Metrics
 
-Precision:  0.4
-Recall:  0.784
-Accuracy:  0.7913669064748201
-F1-Score:  0.5297297297297298
+Precision:  40% <br>
+Recall:  78.4% <br>
+Accuracy:  79.1% <br>
+F1-Score:  53% <br>
 
 <img src='https://i.imgur.com/Mc8IK0l.png'>
 
@@ -28,10 +30,10 @@ F1-Score:  0.5297297297297298
 
 ### Evaluation Metrics
 
-Precision:  0.8290598290598291
-Recall:  0.776
-Accuracy:  0.9424460431654677
-F1-Score:  0.8016528925619835
+Precision:  82.9% <br>
+Recall:  77.6% <br>
+Accuracy:  94.2% <br>
+F1-Score:  80.2% <br>
 
 <img src='https://i.imgur.com/npww6GT.png'>
 
@@ -39,10 +41,10 @@ F1-Score:  0.8016528925619835
 
 ### Evaluation Metrics
 
-Precision:  0.8166666666666667
-Recall:  0.784
-Accuracy:  0.9412470023980816
-F1-Score:  0.7999999999999999
+Precision:  81.7% <br>
+Recall:  78.4% <br>
+Accuracy:  94.1% <br>
+F1-Score:  80% <br>
 
 <img src='https://i.imgur.com/dQDjFoe.png'>
 
